@@ -1,0 +1,25 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files (uncomment if you don't want to include large data files)
+# *.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
